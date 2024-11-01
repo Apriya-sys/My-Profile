@@ -11,9 +11,11 @@ About Me
 
 Strategic and results-oriented B.E with MBA graduate with 8+ years of Technical as well as professional experience. Proven ability to drive business growth, optimize processes, and lead high-performing teams. Strong problem solving skills with understanding hardware – software  interaction 
 My expertise lies in data science, generative AI tools, and system testing to enhance aerospace solutions. I have previously worked at Capgemini and the Aeronautical Development Agency, where I honed my skills in data handling.
+
 I hold a Master of Business from NIBM In Airline and Airport Management and cloud computing and am certified in python programming in Marscaptech software solutions and Udemy.
 
 🔧 Skills & Expertise
+
 Programming Languages: Python, C, C#
 Embedded Systems :  ARM cortex,PIC,STM32
 Protocols :  i2c,SPi,Uart,Ethernet,USB.
@@ -23,17 +25,20 @@ Scripting : python and pytest
 Testing : Unit testing ,Integration testing ,Automating testing 
 
 🌟 Certifications
+
 	Completed Course &Training in Pythonmodules and its basics from MarsCaptech Software Solutions Pvt Ltd - 2022 with Grade‘A’ 
 	Undergone Certified Embeddedsystems training cum placement trainee from NSIC–TSC Chennai 2005 with Grade‘A’  
 	Undergone Academic project and InhouseTraining from SYSCON Instruments• Pvt.Ltd, Electronics city phase 1,Bangalore - 2004
 
 
 📚 Education
+
 •	MBA  NIBM(National Institute of Business Management ) 2022-2024.
 •	PGD in Technical writing from Symbiosis University,Pune -  2015-16 with Grade ‘A’
 •	B.E in Electronics &Communication Engineering from Bharathidasan University,Trichy- 2004 with first class 73.36%
 
 🏆 Professional Experience
+
 Software Test Engineer 
 Analog devices India ( vayes infotech)
 •	Firmware : Assited in firmware development and collaborated with hardware engineers to debug for sigma DSP ,griffin and cross platform. 
@@ -82,6 +87,7 @@ Technical Assistant(Embedded engineer)
 Amudha's GitHub Stats
 
 📫 How to Reach Me
+
 Feel free to connect with me on LinkedIn or send me an email at ammusambanthar@gmail.com.
 
 
