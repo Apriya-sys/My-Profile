@@ -8,7 +8,7 @@ Software Test Engineer ADI Pvt.ltd
 
 📧 ammusambanthar@gmail.com
 
-🔗 LinkedIn
+🔗 
 www.linkedin.com/in/
 mrs-amudha-priya-99b35b19a
 
