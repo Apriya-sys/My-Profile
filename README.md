@@ -13,6 +13,7 @@ www.linkedin.com/in/
 mrs-amudha-priya-99b35b19a
 
 
+
 About Me
 
 Strategic and results-oriented B.E with MBA graduate with 8+ years of Technical as well as professional experience. Proven ability to drive business growth, optimize processes, and lead high-performing teams. Strong problem solving skills with understanding hardware – software  interaction 
